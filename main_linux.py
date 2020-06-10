@@ -1,6 +1,6 @@
 #-*- coding: utf-8 -*-
 
-#Coded By Zucccs
+#Coded By AMAN VAHID
 # Enjoy
 
 
@@ -63,7 +63,7 @@ logo_design_2 = Fore.GREEN + '''
   .;'                     `;,
  .;'  ,;'             `;,  `;,   {0}PhoneSploit
 .;'  ,;'  ,;'     `;,  `;,  `;,
-::   ::   :   {1}( ){0}   :   ::   ::  {1}Coded by Zucccs / Metachar{0}
+::   ::   :   {1}( ){0}   :   ::   ::  {1}Coded by AMAN VAHID/ prototype-spec{0}
 ':.  ':.  ':. {1}/_\{0} ,:'  ,:'  ,:'
  ':.  ':.    {1}/___\{0}    ,:'  ,:'   
   ':.       {1}/_____\{0}      ,:'
